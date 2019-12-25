@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f5f3fc72-74b1-4102-a29d-69c9f3a072ef" name="Apache" url="http://localhost/mtb3">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\mtb3" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
